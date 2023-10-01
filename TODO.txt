@@ -1,0 +1,8 @@
+text area wrap around elements
+checkbox
+grey out past date timers
+reposition
+sound
+graphics
+CLEANUP
+amalgamate addcomponent
